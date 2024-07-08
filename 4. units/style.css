@@ -1,0 +1,10 @@
+main{
+    border: 5px dotted purple;
+    width: 50%;
+}
+
+article{
+    border: 5px dashed green;
+    width:50%
+}
+
